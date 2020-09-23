@@ -1,4 +1,4 @@
-![](src/assets/calculator.jpeg)
+![calculator](https://user-images.githubusercontent.com/63254870/93954250-39917600-fd1b-11ea-9923-7fc79e155b52.jpeg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
